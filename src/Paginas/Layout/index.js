@@ -17,6 +17,9 @@ export default function Layout() {
                     <li>
                         <Link to="/produto">Produto </Link>
                     </li>
+                    <li>
+                        <Link to="/iot">IoT </Link>
+                    </li>
                 </ul>
             </nav>
             <div className="grade">
